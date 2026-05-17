@@ -1,0 +1,18 @@
+steal_v0.2/
+├── main.py
+├── core/
+│   ├── __init__.py
+│   ├── config.py
+│   └── orchestrator.py
+├── modules/
+│   ├── __init__.py
+│   ├── chrome_decryptor.py
+│   ├── noise.py
+│   ├── pseudo_injector.py
+│   ├── packer.py
+│   └── app_bound_helper.py
+├── net/
+│   ├── __init__.py
+│   └── exfil_async.py
+└── chrom_elevator/
+    └── chromlevator.exe
